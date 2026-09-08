@@ -1,0 +1,10 @@
+items={1,2,3}
+print(items)
+items.add(4)
+print(items)
+items.discard(9)
+print(items)
+# a=items.pop()
+# print(a)
+items.pop()
+print(items)
